@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulsingh1101
 - 👀 I’m interested in iOS Application development
-- 🌱 I’m currently learning Swift 5.5 latest updates and SwiftUI
+- 🌱 I’m currently learning Swift 5.5 latest updates
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me on rkssingh566@gmail.com
 
